@@ -1,0 +1,20 @@
+table {
+
+    text-align: center;
+    
+    width: 800px;
+    
+    border-collapse: collapse;
+    
+    margin: auto;
+    
+    font-size: 20px;
+    
+    }
+    th,td {
+
+        border: 1px solid purple;
+        
+        }
+       
+          
